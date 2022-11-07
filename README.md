@@ -29,9 +29,9 @@
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| Java | Firebase |  Naver   |
+| :--------: | :--------: | :------: |
+|   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">    |   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">    | <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"> | 
 
 <br><br>
 
